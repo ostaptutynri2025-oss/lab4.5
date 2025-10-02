@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\lab4.5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC95B19B-7CD4-4EDB-B8D1-6B2EFA20F805}|lab4.5\\lab4.5.vcxproj|C:\\Users\\Dell\\source\\repos\\lab4.5\\lab4.5\\lab4.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC95B19B-7CD4-4EDB-B8D1-6B2EFA20F805}|lab4.5\\lab4.5.vcxproj|solutionrelative:lab4.5\\lab4.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 215,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab4.5.cpp",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\lab4.5\\lab4.5\\lab4.5.cpp",
+              "RelativeDocumentMoniker": "lab4.5\\lab4.5.cpp",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\lab4.5\\lab4.5\\lab4.5.cpp",
+              "RelativeToolTip": "lab4.5\\lab4.5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-29T12:44:08.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
